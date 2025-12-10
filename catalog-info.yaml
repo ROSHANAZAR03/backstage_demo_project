@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage_demo_project
+  annotations:
+    github.com/project-slug: ROSHANAZAR03/backstage_demo_project
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
